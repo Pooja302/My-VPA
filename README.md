@@ -68,13 +68,6 @@ Then My PA removes that effort.
 
 ---
 
-## 🧪 Demo Version
-
-- Uses sample data  
-- Limited queries per session  
-- Upload may be restricted  
-
----
 
 ## ✨ In One Line
 
