@@ -1,6 +1,6 @@
 # 🤖 My PA — Your AI-Powered Personal Assistant 🚀
 
-💬 Try it here: https://mypa-aipowered.web.app/
+💬 Try it here: [https://mypa-aipowered.web.app/](https://mypa-aipowred.web.app/)
 
 If you’ve ever struggled to find something inside your own files — this is built for you. 🔍
 
